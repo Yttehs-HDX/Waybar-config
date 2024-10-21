@@ -63,7 +63,8 @@
 	"battery": {
 		"states": { "warning": 50, "critical": 15 },
 		"format": "{icon} {capacity}%",
-		"format-icons": ["󰁺", "󰁻",  "󰁼", "󰁾", "󰁿", "󰂀", "󰂁", "󰂁", "󰂂", "󰁹"]
+		"format-icons": ["󰁺", "󰁻",  "󰁼", "󰁾", "󰁿", "󰂀", "󰂁", "󰂁", "󰂂", "󰁹"],
+		"interval": 10
   },
 	"clock": {
 		"timezone": "Asia/Shanghai",
